@@ -27,7 +27,9 @@ After exploring multiple perspectives and challenging assumptions, redefine the 
 ```
 For the PROBLEM DEFINITION phase of the PIVOT framework, help me reframe my business challenge from multiple perspectives.
 
-In this phase, we want to ensure we're addressing root causes, not just symptoms. Please help me look at our challenge of [briefly restate challenge] from at least 5 different perspectives:
+In this phase, we want to ensure we're addressing root causes, not just symptoms. Please help me look at our challenge of 
+[briefly restate challenge] 
+from at least 5 different perspectives:
 
 1. From our customers' perspective
 2. From our competitors' perspective
@@ -38,14 +40,6 @@ In this phase, we want to ensure we're addressing root causes, not just symptoms
 For each perspective, identify what they might see as the root cause of our challenge and generate a reframed problem statement.
 
 Which of these reframed problem statements do you think gets closest to the root cause and why?
-```
-
-## Advanced Prompt Variation
-
-For more nuanced analysis, you might try this advanced variation:
-
-```
-Foggy Coast's attempts to expand beyond Northern California have stalled, with test markets in Southern California showing lower-than-expected adoption. Reframe this problem from the perspective of: a craft beer consumer in a new market, a regional distributor, a national retail chain buyer, a local competitor in target markets, and a beer industry analyst. For each perspective, identify what they might see as the root cause of our expansion difficulties.
 ```
 
 ## Practical Tips for Problem Definition

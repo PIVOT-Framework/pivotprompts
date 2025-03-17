@@ -30,7 +30,9 @@ Look for solutions that challenge your assumptions but could actually work.
 ```
 Now for the IDEATION phase of the PIVOT framework, I'd like to explore unconventional possibilities using "what if" scenarios.
 
-Please generate creative solutions to our reframed problem [insert the selected problem statement from the previous step] using these extreme "what if" scenarios:
+Please generate creative solutions to our reframed problem 
+[insert the selected problem statement from the previous step] 
+using these extreme "what if" scenarios:
 
 1. What if we had to solve this with zero financial investment?
 2. What if we had to grow 10x in the next 12 months?
@@ -39,14 +41,6 @@ Please generate creative solutions to our reframed problem [insert the selected 
 5. What if we could only keep one product/service offering?
 
 For each scenario, provide 2-3 unexpected but feasible ideas. Don't worry about being practical yet - we're looking for creative thinking that breaks us out of fixed patterns.
-```
-
-## Advanced Prompt Variation
-
-For more focused innovation, you might try this advanced variation:
-
-```
-What if the craft beer industry was disrupted by a major shift toward alcohol-free alternatives within 18 months? Generate 7 potential pivots for Foggy Coast Brewing that leverage our brewing expertise and brand equity but adapt to this new reality. For each pivot, explain how it addresses the disruption while supporting our national expansion goals.
 ```
 
 ## Practical Tips for Ideation

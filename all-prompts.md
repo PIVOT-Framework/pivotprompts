@@ -36,7 +36,9 @@ Please confirm you understand my business context before we begin the PIVOT anal
 ```
 For the PROBLEM DEFINITION phase of the PIVOT framework, help me reframe my business challenge from multiple perspectives.
 
-In this phase, we want to ensure we're addressing root causes, not just symptoms. Please help me look at our challenge of [briefly restate challenge] from at least 5 different perspectives:
+In this phase, we want to ensure we're addressing root causes, not just symptoms. Please help me look at our challenge of 
+[briefly restate challenge] 
+from at least 5 different perspectives:
 
 1. From our customers' perspective
 2. From our competitors' perspective
@@ -54,7 +56,9 @@ Which of these reframed problem statements do you think gets closest to the root
 ```
 Now for the IDEATION phase of the PIVOT framework, I'd like to explore unconventional possibilities using "what if" scenarios.
 
-Please generate creative solutions to our reframed problem [insert the selected problem statement from the previous step] using these extreme "what if" scenarios:
+Please generate creative solutions to our reframed problem 
+[insert the selected problem statement from the previous step] 
+using these extreme "what if" scenarios:
 
 1. What if we had to solve this with zero financial investment?
 2. What if we had to grow 10x in the next 12 months?
@@ -71,6 +75,8 @@ For each scenario, provide 2-3 unexpected but feasible ideas. Don't worry about 
 For the VULNERABILITY ANALYSIS phase of the PIVOT framework, let's perform a pre-mortem on our most promising ideas.
 
 From the ideation phase, these seem to be our most promising approaches:
+- [List 2-3 ideas you selected from the previous phase]
+- [List 2-3 ideas you selected from the previous phase]
 - [List 2-3 ideas you selected from the previous phase]
 
 For each approach, please conduct a pre-mortem analysis by assuming the approach has failed completely one year after implementation. Generate:
@@ -90,7 +96,10 @@ For the OPTIMIZATION & SYNTHESIS phase of the PIVOT framework, help me combine t
 
 We've identified these key insights:
 - Problem reframing: [Insert key insight from Problem Definition]
-- Creative approaches: [Insert 2-3 promising ideas from Ideation]
+- Creative approaches: 
+    - [List 2-3 ideas you selected from the previous phase]
+    - [List 2-3 ideas you selected from the previous phase]
+    - [List 2-3 ideas you selected from the previous phase]
 - Risk awareness: [Insert key insights from Vulnerability Analysis]
 
 Please help me synthesize these elements into a cohesive strategic approach by:
@@ -108,8 +117,6 @@ What would you title this synthesized strategy to capture its essence?
 
 ```
 For the final TESTING & VALIDATION phase of the PIVOT framework, help me design small-scale experiments to test our strategy with minimal risk.
-
-Our synthesized strategy is: [Insert title/description from previous step]
 
 Please design 3-4 minimum viable experiments we could conduct in the next 30-60 days to test the critical assumptions of our strategy. For each experiment:
 

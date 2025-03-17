@@ -36,7 +36,10 @@ For the OPTIMIZATION & SYNTHESIS phase of the PIVOT framework, help me combine t
 
 We've identified these key insights:
 - Problem reframing: [Insert key insight from Problem Definition]
-- Creative approaches: [Insert 2-3 promising ideas from Ideation]
+- Creative approaches: 
+    - [List 2-3 ideas you selected from the previous phase]
+    - [List 2-3 ideas you selected from the previous phase]
+    - [List 2-3 ideas you selected from the previous phase]
 - Risk awareness: [Insert key insights from Vulnerability Analysis]
 
 Please help me synthesize these elements into a cohesive strategic approach by:
@@ -48,14 +51,6 @@ Please help me synthesize these elements into a cohesive strategic approach by:
 5. Suggesting potential resources or capabilities we'll need to develop
 
 What would you title this synthesized strategy to capture its essence?
-```
-
-## Advanced Prompt Variation
-
-For more complex strategic synthesis, try this advanced variation:
-
-```
-Foggy Coast's leadership team has proposed four different growth strategies: 1) Creating seasonal limited editions to drive national publicity, 2) Acquiring a smaller brewery with established distribution in the Midwest, 3) Developing a premium canned cocktail line leveraging our brand, and 4) Creating a flagship destination brewpub in each major market. Each has merit but we lack resources to pursue all four. Synthesize these ideas into a coherent 24-month strategy that captures the highest-value elements of each approach while maintaining focus on national expansion. Include the sequence of initiatives and key dependencies.
 ```
 
 ## Practical Tips for Optimization & Synthesis

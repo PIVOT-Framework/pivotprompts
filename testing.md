@@ -34,8 +34,6 @@ Use insights from experiments to refine your overall strategy.
 ```
 For the final TESTING & VALIDATION phase of the PIVOT framework, help me design small-scale experiments to test our strategy with minimal risk.
 
-Our synthesized strategy is: [Insert title/description from previous step]
-
 Please design 3-4 minimum viable experiments we could conduct in the next 30-60 days to test the critical assumptions of our strategy. For each experiment:
 
 1. Identify the specific assumption being tested
@@ -45,14 +43,6 @@ Please design 3-4 minimum viable experiments we could conduct in the next 30-60 
 5. Suggest how we might rapidly iterate based on results
 
 How would you prioritize these experiments, and why?
-```
-
-## Advanced Prompt Variation
-
-For more sophisticated experiment design, try this advanced variation:
-
-```
-Foggy Coast has developed a new brewery-direct app for consumers to order limited releases that aren't distributed through retail. We're assuming it will: 1) Increase direct sales by 40% in year one, 2) Provide valuable consumer preference data for new market entry, and 3) Justify the investment in region-specific small batch brewing. Design a 12-week validation program including: specific experiments for each assumption, required metrics, minimum sample size, success criteria, and a decision tree for possible outcomes.
 ```
 
 ## Practical Tips for Testing & Validation
